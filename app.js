@@ -24,7 +24,7 @@ var config = {
     client_secret: '507a1d2d0203656954765910347c67f2',
 
     // MongoDB endpoint
-    mongoDb:       'mongodb://<dbuser>:<dbpassword>@ds031978.mongolab.com:31978/senchalogin',
+    mongoDb:       'mongodb://arbihaza:ahnarbihaza00@ds031978.mongolab.com:31978/senchalogin',
 
     // Session encyption key
     sessionSecret: 'oasjdf0asduf0asd9f0adfks'
