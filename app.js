@@ -15,7 +15,7 @@ var graph = require('fbgraph'),
 var config = {
 
     // Base URL of the App (must be a publically accessible URL)
-    redirect_uri:  'http://arbihaza-jwf.herokuapp.com',
+    redirect_uri:  'http://sleepy-crag-9116.herokuapp.com',
 
     // Facebook Application ID
     client_id:     '577491988956648',
